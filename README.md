@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi Bhumika this side
+## A BTech CSE student at UPES Dehradun 
+### Aspire to become a software engineer
 
 <!--
 **Bhumika1133/Bhumika1133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
